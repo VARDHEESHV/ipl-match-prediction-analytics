@@ -1,0 +1,532 @@
+{
+    "Ahmedabad": {
+        "avg_score": 195,
+        "avg_second_score": 175,
+        "avg_winning_score": 209,
+        "highest_chase": 207,
+        "bat_first_win_pct": 7.7,
+        "bowl_first_win_pct": 34.6,
+        "toss_recommendation": "BOWL FIRST",
+        "top_run_scorers": [
+            {
+                "player": "Shubman Gill",
+                "runs": 1060
+            },
+            {
+                "player": "B Sai Sudharsan",
+                "runs": 968
+            },
+            {
+                "player": "JC Buttler",
+                "runs": 328
+            },
+            {
+                "player": "WP Saha",
+                "runs": 265
+            },
+            {
+                "player": "SS Iyer",
+                "runs": 243
+            }
+        ],
+        "top_wicket_takers": [
+            {
+                "player": "MM Sharma",
+                "wickets": 29
+            },
+            {
+                "player": "Rashid Khan",
+                "wickets": 22
+            },
+            {
+                "player": "Mohammed Shami",
+                "wickets": 17
+            },
+            {
+                "player": "M Prasidh Krishna",
+                "wickets": 13
+            },
+            {
+                "player": "Noor Ahmad",
+                "wickets": 13
+            }
+        ]
+    },
+    "Punjab": {
+        "avg_score": 190,
+        "avg_second_score": 173,
+        "avg_winning_score": 199,
+        "highest_chase": 216,
+        "bat_first_win_pct": 0.0,
+        "bowl_first_win_pct": 40.0,
+        "toss_recommendation": "BOWL FIRST",
+        "top_run_scorers": [
+            {
+                "player": "JM Sharma",
+                "runs": 160
+            },
+            {
+                "player": "LS Livingstone",
+                "runs": 107
+            },
+            {
+                "player": "P Simran Singh",
+                "runs": 87
+            },
+            {
+                "player": "F du Plessis",
+                "runs": 84
+            },
+            {
+                "player": "SM Curran",
+                "runs": 79
+            }
+        ],
+        "top_wicket_takers": [
+            {
+                "player": "Arshdeep Singh",
+                "wickets": 7
+            },
+            {
+                "player": "Yash Thakur",
+                "wickets": 4
+            },
+            {
+                "player": "NT Ellis",
+                "wickets": 4
+            },
+            {
+                "player": "Mohammed Siraj",
+                "wickets": 4
+            },
+            {
+                "player": "Naveen-ul-Haq",
+                "wickets": 3
+            }
+        ]
+    },
+    "Lucknow": {
+        "avg_score": 178,
+        "avg_second_score": 166,
+        "avg_winning_score": 185,
+        "highest_chase": 230,
+        "bat_first_win_pct": 18.2,
+        "bowl_first_win_pct": 45.5,
+        "toss_recommendation": "BOWL FIRST",
+        "top_run_scorers": [
+            {
+                "player": "KL Rahul",
+                "runs": 540
+            },
+            {
+                "player": "N Pooran",
+                "runs": 409
+            },
+            {
+                "player": "A Badoni",
+                "runs": 376
+            },
+            {
+                "player": "MP Stoinis",
+                "runs": 336
+            },
+            {
+                "player": "MR Marsh",
+                "runs": 267
+            }
+        ],
+        "top_wicket_takers": [
+            {
+                "player": "Ravi Bishnoi",
+                "wickets": 19
+            },
+            {
+                "player": "KH Pandya",
+                "wickets": 12
+            },
+            {
+                "player": "Yash Thakur",
+                "wickets": 12
+            },
+            {
+                "player": "Naveen-ul-Haq",
+                "wickets": 10
+            },
+            {
+                "player": "MA Wood",
+                "wickets": 7
+            }
+        ]
+    },
+    "Hyderabad": {
+        "avg_score": 192,
+        "avg_second_score": 182,
+        "avg_winning_score": 210,
+        "highest_chase": 247,
+        "bat_first_win_pct": 21.1,
+        "bowl_first_win_pct": 31.6,
+        "toss_recommendation": "BOWL FIRST",
+        "top_run_scorers": [
+            {
+                "player": "H Klaasen",
+                "runs": 614
+            },
+            {
+                "player": "Abhishek Sharma",
+                "runs": 514
+            },
+            {
+                "player": "TM Head",
+                "runs": 429
+            },
+            {
+                "player": "AK Markram",
+                "runs": 249
+            },
+            {
+                "player": "Nithish Kumar Reddy",
+                "runs": 235
+            }
+        ],
+        "top_wicket_takers": [
+            {
+                "player": "PJ Cummins",
+                "wickets": 14
+            },
+            {
+                "player": "T Natarajan",
+                "wickets": 14
+            },
+            {
+                "player": "B Kumar",
+                "wickets": 12
+            },
+            {
+                "player": "HV Patel",
+                "wickets": 11
+            },
+            {
+                "player": "JD Unadkat",
+                "wickets": 8
+            }
+        ]
+    },
+    "Bengaluru": {
+        "avg_score": 189,
+        "avg_second_score": 180,
+        "avg_winning_score": 208,
+        "highest_chase": 213,
+        "bat_first_win_pct": 0.0,
+        "bowl_first_win_pct": 47.4,
+        "toss_recommendation": "BOWL FIRST",
+        "top_run_scorers": [
+            {
+                "player": "V Kohli",
+                "runs": 856
+            },
+            {
+                "player": "F du Plessis",
+                "runs": 561
+            },
+            {
+                "player": "GJ Maxwell",
+                "runs": 315
+            },
+            {
+                "player": "KD Karthik",
+                "runs": 237
+            },
+            {
+                "player": "RM Patidar",
+                "runs": 226
+            }
+        ],
+        "top_wicket_takers": [
+            {
+                "player": "Mohammed Siraj",
+                "wickets": 21
+            },
+            {
+                "player": "Yash Dayal",
+                "wickets": 14
+            },
+            {
+                "player": "HV Patel",
+                "wickets": 10
+            },
+            {
+                "player": "Vijaykumar Vyshak",
+                "wickets": 10
+            },
+            {
+                "player": "JR Hazlewood",
+                "wickets": 8
+            }
+        ]
+    },
+    "Chennai": {
+        "avg_score": 168,
+        "avg_second_score": 154,
+        "avg_winning_score": 188,
+        "highest_chase": 213,
+        "bat_first_win_pct": 12.5,
+        "bowl_first_win_pct": 37.5,
+        "toss_recommendation": "BOWL FIRST",
+        "top_run_scorers": [
+            {
+                "player": "RD Gaikwad",
+                "runs": 764
+            },
+            {
+                "player": "S Dube",
+                "runs": 494
+            },
+            {
+                "player": "DP Conway",
+                "runs": 415
+            },
+            {
+                "player": "RA Jadeja",
+                "runs": 240
+            },
+            {
+                "player": "R Ravindra",
+                "runs": 238
+            }
+        ],
+        "top_wicket_takers": [
+            {
+                "player": "TU Deshpande",
+                "wickets": 21
+            },
+            {
+                "player": "M Pathirana",
+                "wickets": 20
+            },
+            {
+                "player": "RA Jadeja",
+                "wickets": 18
+            },
+            {
+                "player": "DL Chahar",
+                "wickets": 14
+            },
+            {
+                "player": "Noor Ahmad",
+                "wickets": 13
+            }
+        ]
+    },
+    "Delhi": {
+        "avg_score": 201,
+        "avg_second_score": 183,
+        "avg_winning_score": 223,
+        "highest_chase": 205,
+        "bat_first_win_pct": 15.8,
+        "bowl_first_win_pct": 31.6,
+        "toss_recommendation": "BOWL FIRST",
+        "top_run_scorers": [
+            {
+                "player": "AR Patel",
+                "runs": 400
+            },
+            {
+                "player": "Abishek Porel",
+                "runs": 366
+            },
+            {
+                "player": "DA Warner",
+                "runs": 308
+            },
+            {
+                "player": "T Stubbs",
+                "runs": 279
+            },
+            {
+                "player": "B Sai Sudharsan",
+                "runs": 235
+            }
+        ],
+        "top_wicket_takers": [
+            {
+                "player": "Kuldeep Yadav",
+                "wickets": 15
+            },
+            {
+                "player": "Mukesh Kumar",
+                "wickets": 14
+            },
+            {
+                "player": "AR Patel",
+                "wickets": 13
+            },
+            {
+                "player": "I Sharma",
+                "wickets": 8
+            },
+            {
+                "player": "KK Ahmed",
+                "wickets": 8
+            }
+        ]
+    },
+    "Kolkata": {
+        "avg_score": 197,
+        "avg_second_score": 174,
+        "avg_winning_score": 206,
+        "highest_chase": 262,
+        "bat_first_win_pct": 4.8,
+        "bowl_first_win_pct": 28.6,
+        "toss_recommendation": "BOWL FIRST",
+        "top_run_scorers": [
+            {
+                "player": "RK Singh",
+                "runs": 510
+            },
+            {
+                "player": "PD Salt",
+                "runs": 406
+            },
+            {
+                "player": "VR Iyer",
+                "runs": 399
+            },
+            {
+                "player": "AD Russell",
+                "runs": 385
+            },
+            {
+                "player": "SP Narine",
+                "runs": 359
+            }
+        ],
+        "top_wicket_takers": [
+            {
+                "player": "CV Varun",
+                "wickets": 29
+            },
+            {
+                "player": "Harshit Rana",
+                "wickets": 23
+            },
+            {
+                "player": "VG Arora",
+                "wickets": 17
+            },
+            {
+                "player": "AD Russell",
+                "wickets": 17
+            },
+            {
+                "player": "SP Narine",
+                "wickets": 16
+            }
+        ]
+    },
+    "Mumbai": {
+        "avg_score": 187,
+        "avg_second_score": 176,
+        "avg_winning_score": 203,
+        "highest_chase": 214,
+        "bat_first_win_pct": 0.0,
+        "bowl_first_win_pct": 52.4,
+        "toss_recommendation": "BOWL FIRST",
+        "top_run_scorers": [
+            {
+                "player": "SA Yadav",
+                "runs": 888
+            },
+            {
+                "player": "RG Sharma",
+                "runs": 611
+            },
+            {
+                "player": "Ishan Kishan",
+                "runs": 394
+            },
+            {
+                "player": "Tilak Varma",
+                "runs": 327
+            },
+            {
+                "player": "TH David",
+                "runs": 230
+            }
+        ],
+        "top_wicket_takers": [
+            {
+                "player": "JJ Bumrah",
+                "wickets": 23
+            },
+            {
+                "player": "PP Chawla",
+                "wickets": 15
+            },
+            {
+                "player": "TA Boult",
+                "wickets": 14
+            },
+            {
+                "player": "HH Pandya",
+                "wickets": 11
+            },
+            {
+                "player": "Akash Madhwal",
+                "wickets": 11
+            }
+        ]
+    },
+    "Jaipur": {
+        "avg_score": 187,
+        "avg_second_score": 171,
+        "avg_winning_score": 190,
+        "highest_chase": 217,
+        "bat_first_win_pct": 29.4,
+        "bowl_first_win_pct": 35.3,
+        "toss_recommendation": "BOWL FIRST",
+        "top_run_scorers": [
+            {
+                "player": "YBK Jaiswal",
+                "runs": 609
+            },
+            {
+                "player": "SV Samson",
+                "runs": 426
+            },
+            {
+                "player": "JC Buttler",
+                "runs": 385
+            },
+            {
+                "player": "R Parag",
+                "runs": 356
+            },
+            {
+                "player": "V Kohli",
+                "runs": 193
+            }
+        ],
+        "top_wicket_takers": [
+            {
+                "player": "YS Chahal",
+                "wickets": 13
+            },
+            {
+                "player": "Sandeep Sharma",
+                "wickets": 10
+            },
+            {
+                "player": "Avesh Khan",
+                "wickets": 9
+            },
+            {
+                "player": "TA Boult",
+                "wickets": 8
+            },
+            {
+                "player": "Harpreet Brar",
+                "wickets": 6
+            }
+        ]
+    }
+}
